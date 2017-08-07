@@ -1,0 +1,104 @@
+GET http://127.0.0.1:20101/4.data HTTP/1.1
+Host: 127.0.0.1:20101
+Proxy-Authorization: Basic a3Jpc2huYToxMQ==
+User-Agent: curl/7.47.0
+Accept: */*
+Proxy-Connection: Keep-Alive
+
+
+GET HTTP://127.0.0.1:20104/6.data HTTP/1.1
+Proxy-Authorization: Basic a2F1c2hpazox
+User-Agent: curl/7.35.0
+Host: 127.0.0.1:20104
+Accept: */*
+Proxy-Connection: Keep-Alive
+
+
+POST HTTP://127.0.0.1:20104/7.data HTTP/1.1
+Proxy-Authorization: Basic a2F1c2hpazox
+User-Agent: curl/7.35.0
+Host: 127.0.0.1:20104
+Accept: */*
+Proxy-Connection: Keep-Alive
+
+
+GET HTTP://127.0.0.1:20104/2.data HTTP/1.1
+Proxy-Authorization: Basic a2F1c2hpazox
+User-Agent: curl/7.35.0
+Host: 127.0.0.1:20104
+Accept: */*
+Proxy-Connection: Keep-Alive
+
+
+GET HTTP://127.0.0.1:20104/6.data HTTP/1.1
+Proxy-Authorization: Basic a2F1c2hpazox
+User-Agent: curl/7.35.0
+Host: 127.0.0.1:20104
+Accept: */*
+Proxy-Connection: Keep-Alive
+
+
+POST HTTP://127.0.0.1:20104/4.data HTTP/1.1
+Proxy-Authorization: Basic a2F1c2hpazox
+User-Agent: curl/7.35.0
+Host: 127.0.0.1:20104
+Accept: */*
+Proxy-Connection: Keep-Alive
+
+
+GET HTTP://127.0.0.1:20104/9.data HTTP/1.1
+Proxy-Authorization: Basic a2F1c2hpazox
+User-Agent: curl/7.35.0
+Host: 127.0.0.1:20104
+Accept: */*
+Proxy-Connection: Keep-Alive
+
+
+GET HTTP://127.0.0.1:20104/6.data HTTP/1.1
+Proxy-Authorization: Basic a2F1c2hpazox
+User-Agent: curl/7.35.0
+Host: 127.0.0.1:20104
+Accept: */*
+Proxy-Connection: Keep-Alive
+
+
+GET HTTP://127.0.0.1:20104/1.data HTTP/1.1
+Proxy-Authorization: Basic a2F1c2hpazox
+User-Agent: curl/7.35.0
+Host: 127.0.0.1:20104
+Accept: */*
+Proxy-Connection: Keep-Alive
+
+
+GET HTTP://127.0.0.1:20104/1.data HTTP/1.1
+Proxy-Authorization: Basic a2F1c2hpazox
+User-Agent: curl/7.35.0
+Host: 127.0.0.1:20104
+Accept: */*
+Proxy-Connection: Keep-Alive
+
+
+POST HTTP://127.0.0.1:20104/6.data HTTP/1.1
+Proxy-Authorization: Basic a2F1c2hpazox
+User-Agent: curl/7.35.0
+Host: 127.0.0.1:20104
+Accept: */*
+Proxy-Connection: Keep-Alive
+
+
+POST HTTP://127.0.0.1:20104/1.data HTTP/1.1
+Proxy-Authorization: Basic a2F1c2hpazox
+User-Agent: curl/7.35.0
+Host: 127.0.0.1:20104
+Accept: */*
+Proxy-Connection: Keep-Alive
+
+
+GET HTTP://127.0.0.1:20104/1.data HTTP/1.1
+Proxy-Authorization: Basic a2F1c2hpazox
+User-Agent: curl/7.35.0
+Host: 127.0.0.1:20104
+Accept: */*
+Proxy-Connection: Keep-Alive
+
+
